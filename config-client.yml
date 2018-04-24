@@ -1,7 +1,7 @@
 {
-    "name": "config-client",
+    "name": "config-order",
     "profiles": [
-        "dev"
+        "master"
     ],
     "label": "master",
     "version": null,
